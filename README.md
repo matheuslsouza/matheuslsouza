@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on **Front end projects**
+- 👯 I’m looking to collaborate on **FrontEnd projects**
 
 - 🤝 I’m looking for help with **Frameworks**
 
