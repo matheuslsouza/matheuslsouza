@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus L. Souza</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **FrontEnd projects**
-
-- 👯 I’m looking to collaborate on **Frameworks**
-
-- 🤝 I’m looking for help with **Frameworks**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/matheuslsouza?tab=repositories](https://github.com/matheuslsouza?tab=repositories)
 
